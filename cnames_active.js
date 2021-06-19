@@ -2014,6 +2014,7 @@ var cnames_active = {
   "quickuptime": "lebyy.github.io/quickuptimedocs",
   "quicli": "thecodeah.github.io/quicli",
   "quincy": "quincyx.github.io",
+  "quickshadow": "quickshadowjs-web.pages.dev"
   "quiz-app": "odevlord.github.io/Quiz-App", // noCF? (don´t add this in a new PR)
   "quizizz": "zaida04.github.io/Quizizz.js",
   "quotobot": "team-gigabyte.github.io/quotobot",
